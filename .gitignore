@@ -1,0 +1,46 @@
+etl/scala29
+*.ser
+credentials.conf
+.vagrant/
+simulations/Vagrantfile
+data/
+runnable/
+docs
+docs/
+output/
+*.dat
+*.properties
+log.sql
+target/
+build/
+.cache
+.idea/
+.DS_Store
+*.iml
+*.ipr
+*.iws
+*.project
+*.pydevproject
+.settings/
+.classpath
+*.texlipse
+*.aux
+*.log
+tmp/
+temp/
+logs/
+*.bk
+*.sh
+lib/
+conf/
+analysis/archive
+*.pyc
+*.tar
+*.tar.gz
+#manage project files dirs
+project/project/
+#analysis/current/project/
+# apps/api/project/
+# simulations/sim-dist-monte-carlo/project/
+#include specific files
+#!simulations/sim-dist-monte-carlo/project/SimDistMonteCarloBuild.scala
