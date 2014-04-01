@@ -32,8 +32,8 @@ sender/recipient information. If it does not, the  Genesis applicaition will not
  *./conf* may optionally contain a file called *aws.conf* with the following content, modified with the correct AWS
  AccessKeyId, AWS AccessKeySecret
  
-    AccessKeyId="AKIAJS7G2VCLLAYTOYRA"
-    AccessKeySecret="uAO1avPRzb7Qvt1AAES2V4qPYpX0qGGu+iYvnhnl"
+    AccessKeyId="YOUR KEY ID"
+    AccessKeySecret="KEY"
  
     
 *./lib* must contain the *genesis.jar* file.
